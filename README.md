@@ -13,6 +13,7 @@ A set of full-stack TypeScript projects showcasing frontend–backend integratio
 - **Ports:** Frontend → 3002, Backend → 5002
 
 ### Structure
+```
 ShopLite/
 ├── backend/
 │ ├── src/
@@ -34,6 +35,7 @@ ShopLite/
 │ │ └── store/cart.ts
 │ └── package.json
 └── package.json (root)
+```
 
 ### Run the App
 ```powershell
